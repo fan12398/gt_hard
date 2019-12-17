@@ -1,0 +1,23 @@
+#This is the Layer Conversion File used for
+#importing DXF data into Allegro/APD.
+
+#CLASS!            SUBCLASS!                 DXF_LAYER!
+
+BOARD GEOMETRY!
+                   ASSEMBLY_NOTES!           0!
+                   ASSEMBLY_NOTES!           DEFAULT_1!
+                   ASSEMBLY_NOTES!           DEFAULT_2!
+                   ASSEMBLY_NOTES!           DEFAULT_3!
+                   ASSEMBLY_NOTES!           01___PRT_ALL_DTM_PLN!
+                   ASSEMBLY_NOTES!           01___PRT_DEF_DTM_PLN!
+                   ASSEMBLY_NOTES!           02___PRT_ALL_AXES!
+                   ASSEMBLY_NOTES!           03___PRT_ALL_CURVES!
+                   ASSEMBLY_NOTES!           04___PRT_ALL_DTM_PNT!
+                   ASSEMBLY_NOTES!           05___PRT_ALL_DTM_CSYS!
+                   ASSEMBLY_NOTES!           05___PRT_DEF_DTM_CSYS!
+                   ASSEMBLY_NOTES!           06___PRT_ALL_SURFS!
+                   ASSEMBLY_NOTES!           0-PT-PCBFORMAT!
+                   ASSEMBLY_NOTES!           0-PT-PCBDIM!
+                   ASSEMBLY_NOTES!           0-PT-PCBSOLIDLINE!
+
+#END

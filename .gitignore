@@ -1,0 +1,6 @@
+*.log
+*,1
+*,2
+*,3
+signoise.run
+allegro/signoise.run

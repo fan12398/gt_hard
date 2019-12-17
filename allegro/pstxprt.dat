@@ -1,0 +1,654 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Dec-17-2019 at 15:59:31 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='ESL';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_RC0402N_22PF/50V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16754998@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16754998@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16754998@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_RC0402N_1UF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16992518@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16992518@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16992518@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755480@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755480@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755480@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_RC0603_10UF/6.3V/0603':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16753940@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16753940@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16753940@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_RC0402N_1UF/6.3V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16753908@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16753908@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16753908@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16753888@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16753888@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16753888@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16900098@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16900098@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16900098@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_RC0402N_TBD/2.4PF/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16753578@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16753578@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16753578@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_RC0402N_TBD/2PF/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16754962@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16754962@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16754962@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_RC0603_10UF/6.3V/0603':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16995672@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16995672@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16995672@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_RC0402N_1UF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755950@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755950@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755950@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_RC0402N_22PF/50V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755014@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755014@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755014@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755544@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755544@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755544@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_RC0603_100NF/50V/0603':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996811@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996811@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996811@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR NON-POL_RC1206_10UF/5':
+ ROOM='POWER';
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996861@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996861@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996861@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_RC0603_100NF/50V/0603':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996756@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996756@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996756@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR NON-POL_RC0603_10UF/6':
+ ROOM='POWER';
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996869@DISCRETE.CAPACITOR NON-POL.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996869@discrete.\capacitor non-pol.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996869@discrete.\capacitor non-pol.normal\(chips)',
+ ROOM='POWER',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996728@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996728@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996728@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_RC0603_100NF/50V/0603':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996936@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996936@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996936@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_RC0603_100NF/50V/0603':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996912@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996912@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996912@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_RC0402N_1UF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16754918@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16754918@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16754918@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_RC0402N_100PF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16911040@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16911040@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16911040@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16896547@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16896547@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16896547@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_RC0402N_3.3NF/25V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755624@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755624@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755624@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755448@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755448@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755448@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_RC0402N_10NF/25V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755560@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755560@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755560@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_RC0402N_100NF/16V/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16897511@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16897511@discrete.\cap np.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16897511@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE ZENER_SOD123M_BZT52C5V1':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996736@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996736@discrete.\diode zener.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996736@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'BNC_ANT_BONDING_WIRE_ANT':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16981466@CONNECTOR.BNC.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16981466@connector.\bnc.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16981466@connector.\bnc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'HEADER 12_FPC_0_5MM_10PIN_FLIP_':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS17007405@CONNECTOR.HEADER 12.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins17007405@connector.\header 12.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins17007405@connector.\header 12.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'HEADER 2_POGOPIN_SMD_10MM_PWR_E':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996944@CONNECTOR.HEADER 2.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996944@connector.\header 2.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996944@connector.\header 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_RC0402N_2.0NH/10%/500M':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16969447@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16969447@discrete.\inductor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16969447@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L2 'CHOKE_RC0402N_TBD/0R/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16958335@DISCRETE.CHOKE.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16958335@discrete.\choke.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16958335@discrete.\choke.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L3 'CHOKE_RC0402N_TBD/2.4NH/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16753594@DISCRETE.CHOKE.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16753594@discrete.\choke.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16753594@discrete.\choke.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_L4018_3015_4.7UH/20%/1':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996853@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996853@discrete.\inductor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996853@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ P1 'TXW280047B0_FPC_0_5MM_26PIN_TXW':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16948857@FTL_ACTUATORS.TXW280047B0.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16948857@ftl_actuators.\txw280047b0.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16948857@ftl_actuators.\txw280047b0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'MPF6660_SOT95P280X105-3M_AO3480':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16939138@DISCRETE.MPF6660.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16939138@discrete.\mpf6660.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16939138@discrete.\mpf6660.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'MPF6660_SOT95P280X105-3M_AO3480':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996784@DISCRETE.MPF6660.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996784@discrete.\mpf6660.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996784@discrete.\mpf6660.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RC0402N_0R/1%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16974786@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16974786@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16974786@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RC0402N_47K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16993263@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16993263@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16993263@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16993255@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16993255@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16993255@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16890503@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16890503@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16890503@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16890516@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16890516@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16890516@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996970@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996970@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996970@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'RESISTOR_RC0402N_7.5K/1%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996823@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996823@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996823@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996928@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996928@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996928@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'RESISTOR_RC0402N_47K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996890@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996890@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996890@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'RESISTOR_RC0402N_2.4K/1%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996831@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996831@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996831@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'RESISTOR_RC0402N_1K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996920@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996920@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996920@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RC0402N_20K/1%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755264@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755264@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755264@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16897788@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16897788@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16897788@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RC0402N_499R/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS17000389@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins17000389@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins17000389@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RC0603_1R/1%/0603':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16893367@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16893367@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16893367@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RC0402N_1K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16939176@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16939176@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16939176@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16963733@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16963733@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16963733@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RC0402N_10K/5%/0402':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16917494@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16917494@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16917494@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_RC0402N_10K/5%/0402/NC':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16997315@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16997315@discrete.\resistor.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16997315@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'XPT2046_TSSOP65P640X110-16M_XPT':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16894541@FTL_SENSORS.XPT2046.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16894541@ftl_sensors.\xpt2046.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16894541@ftl_sensors.\xpt2046.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'ESP8080_0_QFN40P600X600X85-49M_':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755674@ESL.ESP8080_0.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755674@esl.\esp8080_0.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755674@esl.\esp8080_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'PN18S32_SOIC127P600X175-8M_ESP-':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16963710@ESPRESSIFLIBRARY.PN18S32.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16963710@espressiflibrary.\pn18s32.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16963710@espressiflibrary.\pn18s32.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'FLASH_4_SOP127P790X195-8M_W25Q6':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755388@ESP32-WROVER-V4.FLASH_4.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755388@\esp32-wrover-v4\.\flash_4.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755388@\esp32-wrover-v4\.\flash_4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'MAX809STRG_SOT95P237X112-3M_CAT':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16993219@FTL_LOGIC.MAX809STRG.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16993219@ftl_logic.\max809strg.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16993219@ftl_logic.\max809strg.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6 'JW5026_SOT95P280X135-6M_JW5026':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16996793@FTL_PWR.JW5026.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16996793@ftl_pwr.\jw5026.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16996793@ftl_pwr.\jw5026.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ X1 'X1_1_XTAL_SMD3225_40MHZ/+-10PPM':;
+
+SECTION_NUMBER 1
+ '@ESL.SYSTEM(SCH_1):INS16755600@ESP8089_DEMO.X1_1.NORMAL(CHIPS)':
+ C_PATH='@esl.system(sch_1):ins16755600@esp8089_demo.\x1_1.normal\(chips)',
+ P_PATH='@esl.system(sch_1):page1_ins16755600@esp8089_demo.\x1_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

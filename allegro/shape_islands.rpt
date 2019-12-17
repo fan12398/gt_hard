@@ -1,0 +1,18 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Shape Island Report                                              )
+(                                                                     )
+(    Drawing          : esl.brd                                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 10 13:59:52 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Total islands on design: 1
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+	Point on shape: (56.0000 2.5000)  Net: CHIP_PU

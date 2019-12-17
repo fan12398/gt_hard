@@ -1,0 +1,20 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dynamic Shape Status                                             )
+(                                                                     )
+(    Drawing          : esl.brd                                       )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Sep 10 10:38:23 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+  Dynamic shapes out of date: 2 out of 41
+  Current fill mode         : SMOOTH
+
+
+  <<<  ETCH  >>>
+
+    Layer = TOP
+       State: No Etch      Point on shape: (6723.2769 17137.8720)  Net: IO4
+       State: No Etch      Point on shape: (6723.2769 17137.8720)  Net: IO4
