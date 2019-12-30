@@ -150,11 +150,11 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources" ".\esl.dsn")
-      (Path "Design Resources" ".\esl.dsn" "system")
+      (Path "Design Resources" "d:\workspace\spb_data\esl_fantl\esl.dsn")
+      (Path "Design Resources" "d:\workspace\spb_data\esl_fantl\esl.dsn"
+         "system")
       (Path "Design Resources" "Library")
-      (Path "Outputs")
-      (Select "Design Resources" ".\esl.dsn"))
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -165,8 +165,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -9 -38 64 1780 64 516")
-        (Scroll "0 1701")
-        (Zoom "208")
+        (Scroll "-83 0")
+        (Zoom "104")
         (Occurrence "/"))
       (Path "D:\WORKSPACE\SPB_DATA\ESL_FANTL\ESL.DSN")
       (Schematic "system")
